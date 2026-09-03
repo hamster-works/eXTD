@@ -24,7 +24,7 @@ The downloaded file is an installer for Windows x64.
 - Download and install the EXE file.
 - The Source Code (zip/tar.gz) files are not required.
 
-[Download the latest release](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[Download the latest release](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## Deutsch
 
@@ -35,7 +35,7 @@ Die heruntergeladene Datei ist ein Installationsprogramm für Windows x64.
 - Laden Sie die EXE-Datei herunter und installieren Sie sie.
 - Die Dateien Source Code (zip/tar.gz) werden nicht benötigt.
 
-[Neueste Version herunterladen](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[Neueste Version herunterladen](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## Francais
 
@@ -46,7 +46,7 @@ Le fichier téléchargé est un installateur pour Windows x64.
 - Téléchargez et installez le fichier EXE.
 - Les fichiers Source Code (zip/tar.gz) ne sont pas nécessaires.
 
-[Télécharger la dernière version](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[Télécharger la dernière version](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## Italiano
 
@@ -57,7 +57,7 @@ Il file scaricato è un programma di installazione per Windows x64.
 - Scarica e installa il file EXE.
 - I file Source Code (zip/tar.gz) non sono necessari.
 
-[Scarica l’ultima versione](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[Scarica l’ultima versione](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## Espanol
 
@@ -68,7 +68,7 @@ El archivo descargado es un instalador para Windows x64.
 - Descarga e instala el archivo EXE.
 - Los archivos Source Code (zip/tar.gz) no son necesarios.
 
-[Descargar la última versión](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[Descargar la última versión](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## Portugues
 
@@ -79,7 +79,7 @@ O arquivo baixado é um instalador para Windows x64.
 - Baixe e instale o arquivo EXE.
 - Os arquivos Source Code (zip/tar.gz) não são necessários.
 
-[Baixar a versão mais recente](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[Baixar a versão mais recente](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## Nederlands
 
@@ -90,7 +90,7 @@ Het gedownloade bestand is een installatieprogramma voor Windows x64.
 - Download en installeer het EXE-bestand.
 - De bestanden Source Code (zip/tar.gz) zijn niet nodig.
 
-[Download de nieuwste versie](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[Download de nieuwste versie](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## Русский
 
@@ -101,7 +101,7 @@ Het gedownloade bestand is een installatieprogramma voor Windows x64.
 - Скачайте и установите EXE-файл.
 - Файлы Source Code (zip/tar.gz) не требуются.
 
-[Скачать последнюю версию](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[Скачать последнюю версию](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## 日本語
 
@@ -112,7 +112,7 @@ eXternalTouchDisplay Driver (eXTDDriver)のWindows x64用公式インストー�
 - EXEファイルをダウンロードしてインストールしてください。
 - Source Code (zip/tar.gz)は不要です。
 
-[最新リリースをダウンロード](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[最新リリースをダウンロード](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## 한국어
 
@@ -123,7 +123,7 @@ eXternalTouchDisplay Driver (eXTDDriver)의 공식 Windows x64 설치 프로그�
 - EXE 파일을 다운로드하여 설치하세요.
 - Source Code (zip/tar.gz) 파일은 필요하지 않습니다.
 
-[최신 릴리스 다운로드](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[최신 릴리스 다운로드](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## 简体中文
 
@@ -134,7 +134,7 @@ eXternalTouchDisplay Driver (eXTDDriver)의 공식 Windows x64 설치 프로그�
 - 请下载并安装 EXE 文件。
 - 不需要 Source Code (zip/tar.gz) 文件。
 
-[下载最新版本](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[下载最新版本](https://github.com/hamster-works/eXTD/releases/latest)
 
 ## 繁體中文
 
@@ -145,6 +145,6 @@ eXternalTouchDisplay Driver (eXTDDriver)의 공식 Windows x64 설치 프로그�
 - 請下載並安裝 EXE 檔案。
 - 不需要 Source Code (zip/tar.gz) 檔案。
 
-[下載最新版本](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[下載最新版本](https://github.com/hamster-works/eXTD/releases/latest)
 
 
