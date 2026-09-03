@@ -71,22 +71,24 @@ Officiële Windows x64-installerversies van eXTDDriver.
 
 De download is een installatieprogramma voor Windows x64. De broncode is niet nodig om eXTDDriver te installeren.
 
-## Russkij
+## Русский
 
-Oficialnye ustanovochnye versii eXTDDriver dlya Windows x64.
+Официальные установочные версии eXTDDriver для Windows x64.
 
-[Skachat poslednyuyu versiyu](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
+[Скачать последнюю версию](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
 
-Fayl dlya skachivaniya yavlyaetsya ustanovshchikom dlya Windows x64. Iskhodnyy kod ne trebuetsya dlya ustanovki eXTDDriver.
+Этот файл является установщиком для Windows x64. Исходный код не требуется для установки eXTDDriver.
 
 ## 日本語
 
-eXTDDriverのWindows x64用公式インストーラーです。
+eXternalTouchDisplay Driver (eXTDDriver)のWindows x64用公式インストーラーです。
 
 [最新リリースをダウンロード](https://github.com/manabuisshiki-rgb/eXternalTouchDisplay-releases/releases/latest)
 
-ダウンロードするファイルはWindows x64用インストーラーです。インストールにソースコードは必要ありません。
+ダウンロードするファイルはWindows x64用インストーラーです。
 
+- ソースコードではありません。
+- インストールにソースコードは不要です。
 ## 한국어
 
 eXTDDriver의 공식 Windows x64 설치 프로그램입니다.
