@@ -148,4 +148,6 @@ eXternalTouchDisplay Driver (eXTDDriver)의 공식 Windows x64 설치 프로그�
 
 [下載最新版本](https://github.com/hamster-works/eXTD/releases/latest)
 
+## Privacy Policy & Support Information
 
+[Open Privacy Policy & Support Information](https://github.com/hamster-works/eXTD/blob/main/Privacy_and_Support.md)
