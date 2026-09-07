@@ -1,6 +1,10 @@
 # eXTDDriver Releases
 
 Windows x64 installer releases for eXTDDriver. Choose your language below.
+## Privacy Policy & Support Information
+
+[Open Privacy Policy & Support Information](https://github.com/hamster-works/eXTD/blob/main/Privacy%26Support.md)
+
 
 - [English](#english)
 - [Deutsch](#deutsch)
